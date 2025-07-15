@@ -8,3 +8,8 @@ From scanning networks to breaking login pages — each task simulates real-worl
 - 🔥 SQL Injection exploit on DVWA  
 - 🔐 UFW firewall configuration  
 - 📚 Research report on common network threats
+## 🎥 Demo Video
+
+Watch the demo video here:  
+👉 [Click to Watch on Google Drive] https://drive.google.com/drive/folders/1KqDE_DR9xBnSGkW62o5SJJLBJ1IzCi_A?usp=sharing
+
